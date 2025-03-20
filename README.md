@@ -13,3 +13,6 @@
   - autocreate LaTeX table code from csv files
   - plot values against arbitrary function
   - more
+
+How to use:
+TBD
